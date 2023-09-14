@@ -24,9 +24,9 @@ Servo vertical_arm_servo;
 Servo horizontal_arm_servo;
 Servo arm_grip_servo;
 
-char auth[] = "WpqZOHpO5aTP3Y_K1be4IrKTNBTzDJ5V"; //Enter your Blynk auth token
-char ssid[] = "YASH RAJ"; //Enter your WIFI name
-char pass[] = "yash2301"; //Enter your WIFI passowrd
+char auth[] = "Enter your Blynk auth token"; //Enter your Blynk auth token
+char ssid[] = "Enter your WIFI name"; //Enter your WIFI name
+char pass[] = "Enter your WIFI passowrd"; //Enter your WIFI passowrd
 
 BLYNK_WRITE(V3)
 {
